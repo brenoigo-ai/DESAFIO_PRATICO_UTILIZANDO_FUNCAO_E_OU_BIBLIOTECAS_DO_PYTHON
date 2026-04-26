@@ -5,6 +5,7 @@ Este repositório contém a resolução do Desafio Prático 4 da disciplina de A
 - **Desafio_Pratico_funcao_biblioteca_PIT.ipynb**: Notebook completo com todas as Questões.
 - **seguranca.py**: Módulo de validação de senhas (Questão 5).
 - **main.py**: Código principal que utiliza o módulo de segurança (Questão 5).
+- **DESAFIO PRÁTICO 4.pdf**: Atividade proposta.
 
 ## 🎓 Autor
 - **Breno Igo**
